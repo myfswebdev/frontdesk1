@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { data } from '../data'; // Import your static data
+import { data } from './data'; // Import your static data
 import SearchInput from './SearchInput';
 import DataTable from './DataTable';
 
